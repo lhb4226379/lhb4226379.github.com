@@ -1,7 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="984722e1-07f8-4376-bd57-ffd3f9fe5d5e" name="Default" comment="" />
+    <list default="true" id="984722e1-07f8-4376-bd57-ffd3f9fe5d5e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bg_hr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blacktocat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icon_download.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sprite_download.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/u0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/u135.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/u137.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/u165.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/u211.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/u45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/u50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/u52.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/u5_line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/u6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/u8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/日历_u208.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/我的竞拍/u0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/我的竞拍/u10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/我的竞拍/u12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u102.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u104_line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u113.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u115.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u119.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u38_line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u47_line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u52.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u54.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u62.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u64_line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u77_line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u83.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u85.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u87_line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u90.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u92.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/支付保证金/u101.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/支付保证金/u103.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/支付保证金/u107_line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/支付保证金/u89.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/支付保证金/u93.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/支付保证金/u95.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u190.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u198.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u200.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u202.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u219.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u221.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u231.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u239.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u257.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u269.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u271_line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u272_line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u273.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u275.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u288.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u303.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u55.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u63.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u65.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u69.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u83.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u88.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u90.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u92.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u111.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u113.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u115.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u117.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u133.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u137_line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u152.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u160.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u166.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u168_line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u186.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u207.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u209.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u87.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u91.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/保证金_u204.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/javascripts/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/params.json" afterPath="" />
+    </list>
     <ignored path="lhb4226379.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +117,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="325" column="43" selection-start-line="325" selection-start-column="43" selection-end-line="325" selection-end-column="43" />
+            <state relative-caret-position="135">
+              <caret line="329" column="0" selection-start-line="329" selection-start-column="0" selection-end-line="329" selection-end-column="0" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -169,46 +262,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lhb4226379.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lhb4226379.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="auction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lhb4226379.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lhb4226379.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="auction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="我的拍卖" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -289,18 +342,18 @@
       <updated>1473845530242</updated>
       <workItem from="1473845534774" duration="134000" />
       <workItem from="1473845835167" duration="1260000" />
-      <workItem from="1473946293300" duration="1589000" />
+      <workItem from="1473946293300" duration="1919000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2983000" />
+    <option name="totallyTimeSpent" value="3313000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1260" height="696" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -414,8 +467,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="325" column="43" selection-start-line="325" selection-start-column="43" selection-end-line="325" selection-end-column="43" />
+        <state relative-caret-position="135">
+          <caret line="329" column="0" selection-start-line="329" selection-start-column="0" selection-end-line="329" selection-end-column="0" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
           </folding>
