@@ -4,7 +4,28 @@
     <meta charset="UTF-8">
     <title>原型列表</title>
 </head>
+<style type="text/css">
+    div{}
+</style>
+<script type="text/javascript">
+    function columnClick(u) {
+        document.getElementById("history").src=u;
+    }
+</script>
 <body>
-<a href="../auction/column.html">竞拍系统</a>
+<div>
+    <h1>原型设计</h1>
+</div>
+<div style="border: solid; border-width: 1px;border-color: #212121;height: 0px"></div>
+<p></p>
+<div>
+    <div style="display: inline-block;float: left;width:34%;height: 100px">
+        <p><a onclick="columnClick('../prototypes/history/auction.html')">竞拍系统</a></p>
+    </div>
+    <div style="display: inline-block;float: right;width:64%;height: 100px">
+        <iframe id="history" src="" style="width: 100%;height: 100%" frameborder="no">
+        </iframe>
+    </div>
+</div>
 </body>
 </html>
