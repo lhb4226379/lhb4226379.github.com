@@ -2,98 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="984722e1-07f8-4376-bd57-ffd3f9fe5d5e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bg_hr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blacktocat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icon_download.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sprite_download.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/u0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/u135.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/u137.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/u165.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/u211.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/u45.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/u50.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/u52.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/u5_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/u6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/u8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/发布拍卖/日历_u208.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/我的竞拍/u0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/我的竞拍/u10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/我的竞拍/u12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u102.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u104_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u113.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u115.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u119.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u38_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u43.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u47_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u50.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u52.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u54.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u60.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u62.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u64_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u77_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u83.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u85.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u87_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u90.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/拍卖首页/u92.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/支付保证金/u101.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/支付保证金/u103.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/支付保证金/u107_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/支付保证金/u89.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/支付保证金/u93.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/支付保证金/u95.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u190.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u198.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u200.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u202.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u219.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u221.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u231.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u239.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u257.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u269.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u271_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u272_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u273.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u275.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u288.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u303.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u55.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u63.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u65.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u69.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u83.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u88.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u90.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍列表/u92.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u111.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u113.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u115.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u117.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u133.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u137_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u152.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u160.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u166.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u168_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u186.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u207.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u209.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u87.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/u91.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/竞拍详情/保证金_u204.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/javascripts/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/params.json" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/column/catalogues" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="lhb4226379.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -114,14 +25,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="329" column="0" selection-start-line="329" selection-start-column="0" selection-end-line="329" selection-end-column="0" />
-              <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="165">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="竞拍详情.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auction/竞拍详情.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="catalogues" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/column/catalogues">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="我的竞拍.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auction/我的竞拍.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -129,7 +68,7 @@
       <file leaf-file-name="axutils.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/auction/resources/scripts/axutils.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
+            <state relative-caret-position="45">
               <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -141,7 +80,7 @@
       <file leaf-file-name="messagecenter.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/auction/resources/scripts/messagecenter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
+            <state relative-caret-position="300">
               <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
               <folding>
                 <marker date="1473847200000" expanded="true" signature="3529:3541" ph="..." />
@@ -164,8 +103,8 @@
       <file leaf-file-name="发布拍卖.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/auction/发布拍卖.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+            <state relative-caret-position="60">
+              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -174,7 +113,7 @@
       <file leaf-file-name="我的拍卖.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/auction/我的拍卖.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="645">
               <caret line="43" column="72" selection-start-line="43" selection-start-column="72" selection-end-line="43" selection-end-column="72" />
               <folding />
             </state>
@@ -189,7 +128,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/catalogues" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/column/catalogues" />
       </list>
     </option>
   </component>
@@ -200,10 +141,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="43" />
-    <option name="width" value="1260" />
-    <option name="height" value="696" />
+    <option name="x" value="2" />
+    <option name="y" value="23" />
+    <option name="width" value="1278" />
+    <option name="height" value="736" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -230,6 +171,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -258,14 +201,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="column" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lhb4226379.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lhb4226379.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="auction" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -275,7 +230,18 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/column" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="catalogues" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/lhb4226379.github.com/column/catalogues">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/lhb4226379.github.com/index.html">
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -329,6 +295,16 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.catalogues" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.catalogues" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -342,33 +318,34 @@
       <updated>1473845530242</updated>
       <workItem from="1473845534774" duration="134000" />
       <workItem from="1473845835167" duration="1260000" />
-      <workItem from="1473946293300" duration="1919000" />
+      <workItem from="1473946293300" duration="2925000" />
+      <workItem from="1473996984926" duration="1349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3313000" />
+    <option name="totallyTimeSpent" value="5668000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="43" width="1260" height="696" extended-state="0" />
-    <editor active="false" />
+    <frame x="2" y="23" width="1278" height="736" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24647887" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298351" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -381,11 +358,70 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/column/catalogues">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="330" column="44" selection-start-line="330" selection-start-column="44" selection-end-line="330" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auction/resources/scripts/axutils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auction/resources/scripts/messagecenter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <marker date="1473847200000" expanded="true" signature="3529:3541" ph="..." />
+            <marker date="1473847200000" expanded="true" signature="3607:3619" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auction/resources/expand.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auction/发布拍卖.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auction/我的拍卖.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="72" selection-start-line="43" selection-start-column="72" selection-end-line="43" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="324" column="39" selection-start-line="324" selection-start-column="39" selection-end-line="324" selection-end-column="39" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -412,17 +448,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/auction/发布拍卖.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/auction/resources/scripts/axutils.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
+        <state relative-caret-position="45">
           <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -432,20 +460,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/auction/resources/scripts/messagecenter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
+        <state relative-caret-position="300">
           <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
           <folding>
             <marker date="1473847200000" expanded="true" signature="3529:3541" ph="..." />
             <marker date="1473847200000" expanded="true" signature="3607:3619" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auction/resources/expand.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -459,19 +479,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/auction/我的拍卖.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="645">
           <caret line="43" column="72" selection-start-line="43" selection-start-column="72" selection-end-line="43" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auction/我的竞拍.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auction/resources/expand.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auction/发布拍卖.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auction/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="329" column="0" selection-start-line="329" selection-start-column="0" selection-end-line="329" selection-end-column="0" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="165">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auction/竞拍详情.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/column/catalogues">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
