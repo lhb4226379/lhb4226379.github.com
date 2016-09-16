@@ -5,11 +5,31 @@
     <title>原型列表</title>
 </head>
 <style type="text/css">
-    div{}
+    a:link {
+        color: #000000;
+        text-decoration: none;
+    }
+    a:visited {
+        color: #000000;
+        text-decoration: none;
+    }
+    a:hover {
+        color: #999999;
+        text-decoration: none;
+    }
 </style>
 <script type="text/javascript">
-    function columnClick(u) {
+
+    var divHis;
+
+    function columnClick(u,divDoc) {
+        if(divHis==null){
+            divHis = document.getElementById("d1");
+        }
         document.getElementById("history").src=u;
+        divDoc.style.backgroundColor = "#C9C9C9";
+        divHis.style.backgroundColor='white';
+        divHis = divDoc;
     }
 </script>
 <body>
@@ -19,11 +39,12 @@
 <div style="border: solid; border-width: 1px;border-color: #212121;height: 0px"></div>
 <p></p>
 <div>
-    <div style="display: inline-block;float: left;width:34%;height: 100px">
-        <p><a onclick="columnClick('../prototypes/history/auction.html')">竞拍系统</a></p>
+    <div style="display: inline-block;float: left;width:14%">
+        <div id ="d1" style="background-color: #C9C9C9;padding: 5px" onclick="columnClick('../prototypes/history/auction.html',this)"><a href="#">竞拍系统</a></div>
+        <div id ="d2" style="padding: 5px" onclick="columnClick('../prototypes/history/auction.html',this)"><a href="#">移动M站</a></div>
     </div>
-    <div style="display: inline-block;float: right;width:64%;height: 100px">
-        <iframe id="history" src="" style="width: 100%;height: 100%" frameborder="no">
+    <div style="display: inline-block;float: right;width:85%">
+        <iframe id="history" src="../prototypes/history/auction.html" style="width: 100%;height: 100%" frameborder="no">
         </iframe>
     </div>
 </div>
