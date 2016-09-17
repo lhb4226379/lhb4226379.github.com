@@ -2,229 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="984722e1-07f8-4376-bd57-ffd3f9fe5d5e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/column.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/data/document.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/data/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/files/发布拍卖/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/files/发布拍卖/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/files/我的拍卖/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/files/我的拍卖/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/files/我的竞拍/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/files/我的竞拍/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/files/拍卖首页/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/files/拍卖首页/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/files/支付保证金/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/files/支付保证金/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/files/竞拍列表/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/files/竞拍列表/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/files/竞拍详情/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/files/竞拍详情/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/发布拍卖/u0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/发布拍卖/u135.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/发布拍卖/u137.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/发布拍卖/u165.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/发布拍卖/u211.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/发布拍卖/u45.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/发布拍卖/u50.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/发布拍卖/u52.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/发布拍卖/u5_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/发布拍卖/u6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/发布拍卖/u8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/发布拍卖/日历_u208.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/我的竞拍/u0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/我的竞拍/u10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/我的竞拍/u12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u102.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u104_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u113.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u115.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u119.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u38_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u43.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u47_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u50.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u52.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u54.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u60.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u62.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u64_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u77_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u83.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u85.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u87_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u90.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/拍卖首页/u92.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/支付保证金/u101.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/支付保证金/u103.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/支付保证金/u107_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/支付保证金/u89.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/支付保证金/u93.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/支付保证金/u95.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u190.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u198.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u200.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u202.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u219.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u221.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u231.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u239.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u257.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u269.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u271_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u272_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u273.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u275.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u288.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u303.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u55.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u63.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u65.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u69.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u83.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u88.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u90.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍列表/u92.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍详情/u111.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍详情/u113.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍详情/u115.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍详情/u117.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍详情/u133.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍详情/u137_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍详情/u152.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍详情/u160.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍详情/u166.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍详情/u168_line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍详情/u186.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍详情/u207.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍详情/u209.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍详情/u87.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍详情/u91.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/images/竞拍详情/保证金_u204.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/plugins/page_notes/page_notes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/plugins/page_notes/styles/page_notes.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/plugins/sitemap/sitemap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/plugins/sitemap/sitemap.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/plugins/sitemap/styles/images/079_page_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/plugins/sitemap/styles/images/086_case_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/plugins/sitemap/styles/images/225_responsive_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/plugins/sitemap/styles/images/228_togglenotes_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/plugins/sitemap/styles/images/229_variables_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/plugins/sitemap/styles/images/231_event_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/plugins/sitemap/styles/images/232_search_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/plugins/sitemap/styles/images/233_hyperlink_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/plugins/sitemap/styles/images/235_folderclosed_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/plugins/sitemap/styles/images/236_folderopen_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/plugins/sitemap/styles/images/adaptivecheck.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/plugins/sitemap/styles/images/images.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/plugins/sitemap/styles/images/minus.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/plugins/sitemap/styles/images/plus.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/plugins/sitemap/styles/sitemap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/Other.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/chrome/allow_access.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/chrome/axure-chrome-extension.crx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/chrome/axure_logo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/chrome/axure_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/chrome/chrome.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/chrome/extensions_menu.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/chrome/splitter.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/chrome/splitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/css/axure_rp_page.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/css/axure_rp_page.css.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/css/default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/css/images/images.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/css/images/newwindow.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/css/images/note.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/css/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/css/images/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/css/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/css/images/ui-bg_glass_75_dadada_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/css/images/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/css/images/ui-bg_glass_75_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/css/images/ui-bg_inset-soft_95_fef1ec_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/css/images/ui-icons_222222_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/css/images/ui-icons_2e83ff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/css/images/ui-icons_454545_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/css/images/ui-icons_888888_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/css/images/ui-icons_cd0a0a_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/css/jquery-ui-themes.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/css/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/expand.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/images/259_close_12rollover1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/images/259_close_12rollover2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/images/260_collapse_12rollover1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/images/260_collapse_12rollover2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/images/261_expand_12rollover1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/images/261_expand_12rollover2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/images/images.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/images/transparent.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/reload.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/action.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/action.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/adaptive.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/adaptive.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/annotation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/annotation.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/axQuery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/axQuery.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/axQuery.std.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/axQuery.std.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/doc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/doc.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/drag.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/drag.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/events.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/events.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/expr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/expr.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/flyout.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/geometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/globals.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/ie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/ie.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/init.temp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/init.temp.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/legacy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/legacy.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/model.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/model.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/move.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/repeater.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/repeater.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/sto.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/style.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/style.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/tree.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/utils.temp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/variables.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/variables.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/viewer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/viewer.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axure/visibility.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axutils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/axutils.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/jquery-1.7.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/jquery-ui-1.8.10.custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/messagecenter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/messagecenter.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/player/axplayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/player/axplayer.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/player/splitter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/resources/scripts/player/splitter.js.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/发布拍卖.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/我的拍卖.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/我的竞拍.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/拍卖首页.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/支付保证金.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/竞拍列表.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototypes/auction/竞拍详情.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/columns/prototypes.html" afterPath="$PROJECT_DIR$/columns/prototypes.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prototypes/history/auction.html" afterPath="$PROJECT_DIR$/prototypes/history/auction.html" />
     </list>
     <ignored path="lhb4226379.github.com.iws" />
@@ -277,8 +55,8 @@
       <file leaf-file-name="prototypes.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/columns/prototypes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            <state relative-caret-position="30">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -291,11 +69,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="auction.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="auction.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prototypes/history/auction.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            <state relative-caret-position="255">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mobileM.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prototypes/history/mobileM.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -328,8 +122,9 @@
         <option value="$PROJECT_DIR$/auction/竞拍详情.html" />
         <option value="$PROJECT_DIR$/auction/column.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/columns/prototypes.html" />
         <option value="$PROJECT_DIR$/prototypes/history/auction.html" />
+        <option value="$PROJECT_DIR$/columns/prototypes.html" />
+        <option value="$PROJECT_DIR$/prototypes/history/mobileM.html" />
       </list>
     </option>
   </component>
@@ -404,7 +199,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="history" />
+              <option name="myItemId" value="mobileM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="version1.0" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -422,11 +221,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="auction" />
+              <option name="myItemId" value="history" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lhb4226379.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lhb4226379.github.com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="version1.0" />
+              <option name="myItemId" value="prototypes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -566,12 +375,12 @@
       <workItem from="1473845835167" duration="1260000" />
       <workItem from="1473946293300" duration="2925000" />
       <workItem from="1473996984926" duration="31127000" />
-      <workItem from="1474079321418" duration="85000" />
+      <workItem from="1474079321418" duration="750000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35531000" />
+    <option name="totallyTimeSpent" value="36196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="23" width="1278" height="736" extended-state="6" />
@@ -581,18 +390,18 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3988006" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298351" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3988006" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -798,10 +607,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/prototypes/history/auction.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/columns/prototypes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        <state relative-caret-position="30">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -813,10 +636,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prototypes/history/auction.html">
+    <entry file="file://$PROJECT_DIR$/prototypes/history/mobileM.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        <state relative-caret-position="285">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
